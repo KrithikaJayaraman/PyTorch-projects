@@ -13,5 +13,5 @@ Objective: Image Classification from scratch to distinguish Emergency and Non-Em
 2) Image Captioning on Flickr dataset using PyTorch
 Objective: Generate Captions from images using Pre-trained CNN and LSTM
 References:
-1) [Show and Tell: Neural Image Caption Generator paper](https://arxiv.org/pdf/1411.4555.pdf)
-2) PyTorch Tutorial by [Yunjey](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
+    -  [Show and Tell: Neural Image Caption Generator paper](https://arxiv.org/pdf/1411.4555.pdf)
+    -  PyTorch Tutorial by [Yunjey](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
