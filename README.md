@@ -4,3 +4,4 @@ Hello. This repository is a collection of Deep learning projects in Pytorch. Ple
 
 1) [Personal blog](https://krithikajayaraman.github.io/blog/posts/day1.html)
 2) [How to start modelling in Pytorch??](https://medium.com/@connect.krithi/how-do-start-modelling-in-pytorch-361847ae1ff9)
+3) Image Captioning on Flickr dataset using PyTorch
